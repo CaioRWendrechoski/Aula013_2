@@ -57,3 +57,17 @@ header{
         padding: 0px;
     }
 }
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: gainsboro;
+}
+.listinha {
+    font-family: Arial, Helvetica, sans-serif;
+    color: gainsboro;
+}
+li, a{
+    font-family: Arial, Helvetica, sans-serif;
+    color: gainsboro;
+    text-decoration: dashed;
+    font-size: large;
+}
